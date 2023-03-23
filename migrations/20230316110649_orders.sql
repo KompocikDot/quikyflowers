@@ -1,0 +1,3 @@
+-- CREATE TABLE ORDERS(
+--     id SERIAL PRIMARY KEY
+-- );

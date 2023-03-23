@@ -1,0 +1,6 @@
+CREATE TABLE ITEMS(
+    id SERIAL PRIMARY KEY,
+    price INT NOT NULL,
+    name VARCHAR NOT NULL,
+    link VARCHAR NOT NULL
+);
